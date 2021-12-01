@@ -1,0 +1,2 @@
+com/example/utsmobileapp/BuildConfig.java
+ com.example.utsmobileapp.BuildConfig
